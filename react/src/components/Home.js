@@ -7,7 +7,7 @@ import '../App.css'
     
     
    <div>
-     <h1 className='container'>NAVIGATE THROUGH THE OPTIONS</h1>
+     <h1 className='container'>CHECK OUT THE MOVIES!!</h1>
    </div>
     
 )
