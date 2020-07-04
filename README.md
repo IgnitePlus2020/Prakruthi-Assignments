@@ -6,5 +6,5 @@ Includes Order Form, Navigation Bar, Dropdown Menu and Real Time search for data
 Includes Low Fidelity Wireframe of an E-Commerce application and three simple user personas
 # 3. Sring Boot:
 Includes H2 database used with Spring Boot
-# 4.Cassandra:
+# 4. Cassandra:
 Cassandra in Docker
